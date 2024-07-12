@@ -1,0 +1,19 @@
+User stories
+- List tasks
+- Mark a task as done
+- delete a task
+- Add a task
+
+
+
+User Menu
+1) List tasks (READ)
+2) Add a task (CREATE)
+3) Mark a task as done (UPDATE)
+4) Remove a task (DESTROY)
+
+
+
+MVC Pattern
+Model - View - Controller
+Repository - store instances of tasks create destroy
